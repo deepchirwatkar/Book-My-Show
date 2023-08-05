@@ -1,4 +1,4 @@
-# Almabetter - Capstone project ( 2nd ) - BookMyShow
+# Almabetter - BookMyShow
 
 This is a backend capston project given by almabetter in this project we created bookmyshow website this project have vary simple UI and this website is very easy to use ( userfriendly )  and also a work in any devices ( Responsiveness ) .
 
@@ -9,10 +9,10 @@ Deep Chirwatkar and Jayash Gahane
 
 ## Deployment Links
 
-click on the line to see the project 
+click on the link to see the project 
 
 Frontend on netlify.com
-
+https://bookmyshowby-deep-and-jayash.netlify.app/
 
 Backend on cyclic.sh
 
